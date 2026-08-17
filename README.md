@@ -1,3 +1,4 @@
+
 # EPLAN Product Scraper
 
 A Python web scraping project built with Playwright that extracts
@@ -19,3 +20,6 @@ results to an Excel spreadsheet.
 - Tracks failed URLs for later processing
 - Sorts products by manufacturer
 - Exports data to Excel
+
+
+<img width="1920" height="1029" alt="EPLAN-Product-Scraper" src="https://github.com/user-attachments/assets/234a5ab4-4e39-46cd-b15b-58b0e2780f09" />
